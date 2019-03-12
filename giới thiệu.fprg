@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Admin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-03-11 09:36:28 CH"/>
+        <attribute name="created" value="QWRtaW47QURNSU47MjAxOS0wMy0xMTswOToyNDowNyBDSDsyMTE1"/>
+        <attribute name="edited" value="QWRtaW47QURNSU47MjAxOS0wMy0xMTswOTozNjoyOCBDSDsxOzIyMjk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot; HELLO WORLD &quot;" newline="True"/>
+            <output expression="&quot;H&#7885; v&#224; t&#234;n: Nguy&#7877;n Tu&#7845;n T&#250;&quot;" newline="True"/>
+            <output expression="&quot;MSSV: 1755252021600001&quot;" newline="True"/>
+            <output expression="&quot; Ng&#224;nh h&#7885;c: K&#7929; thu&#7853;t &#273;i&#7873;u khi&#7875;n v&#224; t&#7921; &#273;&#7897;ng h&#243;a&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
